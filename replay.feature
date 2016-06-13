@@ -5,7 +5,7 @@
 # reversed. This feature file should be running green once everything is
 # in place. Once done, please send a pull request to this repository. Add
 # a readme.md file providing how to run your code and tests. You are free
-# to add more tests as per your wish :slightly_smiling_face:. Enjoy !!! .
+# to add more tests as per your wish. :) Enjoy !!! .
 
 Feature: Reverse Replay Http Server should send back reversed data
 
