@@ -15,7 +15,7 @@ client.c - This works as a client application after compilation.
 
 These codes are works on only Linux platform.
 
-Two compile the code type following commands in terminal.
+To compile the code type following commands in terminal.
 
 $ cc -o server server.c
 
