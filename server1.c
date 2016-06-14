@@ -1,5 +1,7 @@
 /* A simple server in the internet domain using TCP
    The port number is passed as an argument */
+   
+   /*This code works well with cilent.c*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
