@@ -66,7 +66,6 @@ int main(int argc, char *argv[])
      n = write(newsockfd,buffer,strlen(buffer)+1);
      if (n < 0) error("ERROR writing to socket");
      close(newsockfd);
-     free(buffer);
      close(sockfd);
      return 0; 
 }
