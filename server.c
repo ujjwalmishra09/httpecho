@@ -99,6 +99,7 @@ int main(int argc, char *argv[])
      n = write(newsockfd,str,strlen(str));
      if (n < 0) error("ERROR writing to socket");
      close(newsockfd);
+     free(buffer);
      }
      close(sockfd);
      return 0; 
