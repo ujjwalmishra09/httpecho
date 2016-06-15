@@ -2,7 +2,7 @@
 
 ## Code structure
 
-There are 2 server and 1 client application code. These codes are works on Linux platform.
+There are 2 server and 1 client application code. These codes are for Linux platform.
 
 server.c - This is created to interact with any browser like (Chrome, Firefox etc).
 
@@ -13,7 +13,7 @@ client.c - This works as a client application after compilation.
 
 ## Compilation
 
-These codes are works on only Linux platform.
+These codes are for Linux platform.
 
 To compile the code type following commands in terminal.
 
