@@ -37,10 +37,14 @@ $ ./server 2500
 
 Now if you want to test it from same computer then open web-browser chrome or firefox and type following kyewords in url bar.
 
-[http://localhost:2500/?string=ujjwal mishra](http://localhost/?string=ujjwal mishra)
+[http://localhost:2500/?string=ujjwal mishra](http://localhost:2500/?string=ujjwal mishra)
 
 
-then you will get response -arhsim lawjju
+then you will get response - arhsim lawjju
+
+you can try another.
+
+[http://localhost:2500/?string=hello world!](http://localhost:2500/?string=hello world!)
 
 you can put any string after "http://localhost:2500/?string=" like http GET request You will get reverse of the string.
 
@@ -48,7 +52,7 @@ now if you want to test it on another device which have any browser and connecte
 
 run command $ ifconfig
 
-you will get assigned Ip of your system. now put this ip in the place of localhost. Example Given below.
+you will get assigned Ip of your system. put this ip in the place of localhost. Example Given below.
 
 Ex - your system ip is 192.168.43.9. Then open your browser on device and put follwing query like given below
 
