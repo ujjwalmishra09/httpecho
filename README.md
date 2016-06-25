@@ -2,7 +2,7 @@
 
 ## Code structure
 
-There are 2 server and 1 client application code. These codes are for Linux platform.
+There are 2 server and 1 client application code. These codes are for Linux with [GNU gcc compiler](https://help.ubuntu.com/community/InstallingCompilers).
 
 server.c - This is created to interact with any browser like (Chrome, Firefox etc).
 
